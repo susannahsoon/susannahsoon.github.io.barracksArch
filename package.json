@@ -5,7 +5,8 @@
   "main": "js/viewer.js",
   "scripts": {
     "test": "npm run lint",
-    "lint": "eslint js/*.js"
+    "lint": "eslint js/*.js",
+    "webpack": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,15 +19,22 @@
   },
   "homepage": "https://github.com/oldnyc/oldnyc.github.io#readme",
   "devDependencies": {
-    "babel-core": "^6.9.0",
-    "babel-loader": "^6.2.4",
-    "babel-preset-es2015": "^6.9.0",
+    "@types/lodash": "^4.14.91",
+    "@types/underscore": "^1.8.6",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
     "eslint": "^2.10.2",
     "eslint-plugin-import": "^1.8.0",
     "webpack": "^1.15.0"
   },
   "dependencies": {
+<<<<<<< HEAD
     "http-server": "^0.10.0",
+=======
+    "babel-cli": "^6.26.0",
+    "lodash": "^4.17.4",
+>>>>>>> 3f8820e9410f8136e25d2fd130cd2fb558f19fbb
     "underscore": "^1.8.3"
   }
 }
