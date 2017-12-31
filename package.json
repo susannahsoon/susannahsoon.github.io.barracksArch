@@ -29,12 +29,9 @@
     "webpack": "^1.15.0"
   },
   "dependencies": {
-<<<<<<< HEAD
     "http-server": "^0.10.0",
-=======
     "babel-cli": "^6.26.0",
     "lodash": "^4.17.4",
->>>>>>> 3f8820e9410f8136e25d2fd130cd2fb558f19fbb
     "underscore": "^1.8.3"
   }
 }
