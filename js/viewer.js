@@ -118,7 +118,8 @@ function handleClick(e) {
 }
 
 export function initialize_map() {
-  var latlng = new google.maps.LatLng(40.74421, -73.97370);
+  //var latlng = new google.maps.LatLng(-31.953512, 115.857048);
+  var latlng = new google.maps.LatLng(-31.953512, 115.857048);
   var opts = {
     zoom: 15,
     maxZoom: 18,
