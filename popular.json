@@ -2,7 +2,7 @@
   "144277PD": {
     "width": 600, 
     "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.png", 
-    "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.jpg", 
     "title": "Pensioner Barracks before demolition", 
     "date": "1966", 
     "text": "null", 
@@ -15,14 +15,142 @@
   "100656PD": {
     "width": 760, 
     "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3473420_1.png", 
-    "image_url": "http://purl.slwa.wa.gov.au/slwa_b3473420_1.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b3473420_1.jpg", 
     "title": "Crowd and parade outside Perth Town Hall celebrating Western Australia's Centenary", 
     "date": "1929", 
-    "text": "The Lord Mayor of�Perth�J.T. Franklin and the Governor Sir William Campion speak at the event celebrating the centenary of W.A. The Governor unveiled the Centenary Tablet on the western corner of the�Town Hall.", 
+    "text": "The Lord Mayor of Perth J.T. Franklin and the Governor Sir William Campion speak at the event celebrating the centenary of W.A. The Governor unveiled the Centenary Tablet on the western corner of the�Town Hall.", 
     "folder": "Barrack Street & Hay Street", 
     "height": 578, 
     "years": [
       "1929"
     ]
+  }, 
+  "008535PD": {
+    "width": 760, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b2940965_012.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b2940965_012.jpg", 
+    "title": "Archbishop Mannix addressing the crowd at the laying of the foundation stone for extensions to St Mary's Cathedral", 
+    "date": "25th August 1926", 
+    "text": "published in the Western Mail 29 April 1926, p.3 (Supplement) with caption: The Most Rev. Dr Mannix D.D. (Archbishop of Melbourne) speaking. Among those on the platform are the Most Rev. Patrick Clune C.S.S.R. D.D. (Archbishop of Perth), Most Rev. Francis M. Redwood (Archbishop of Wellington, N.Z.), Most Rev. R. W. Spence, D. D. (Archbishop of Adelaide), Most Rev. J. Duhig D.D. (Archbishop of Brisbane), Most Rev. M. Sheehan (Coadjutor Archbishop of Sydney) and the bishops of Sandhurst, Wilcannia-Forbes, Ballarat and Port Augusta.", 
+    "folder": "Victoria Square & Murray Street", 
+    "height": 578, 
+    "years": [
+      "1926"
+    ]
+  }, 
+  "007675PD": {
+    "width": 760, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b4535317_1.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b4535317_1.jpg", 
+    "title": "Intersection of William and Wellington Streets, Perth from the Horseshoe Bridge", 
+    "date": "1924", 
+    "text": "A sign advertises R.A. Jones (in the Post Office Directory Mrs R.A. Jones) as proprietor of the Royal Hotel opposite the Universal Shoe Stores. By the 1926 W.A. Post Office Directory the licensee of the Royal Hotel is M.E. Coombes.", 
+    "folder": "William Street & Wellington Street", 
+    "height": 562, 
+    "years": [
+      "1924"
+    ]
+  }, 
+  "380764PD": {
+    "width": 760, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3820684_2.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b3820684_2.jpg", 
+    "title": "Musicians playing on steps of Perth GPO to raise awareness of situation in Chile", 
+    "date": "1976", 
+    "text": "Photographs taken either 11 August 1976 or 29 October 1976.", 
+    "folder": "Forrest Place & Murray Street", 
+    "height": 499, 
+    "years": [
+      "1976"
+    ]
   }
+  , 
+  "008535PD": {
+    "width": 760, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b2940965_012.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b2940965_012.jpg", 
+    "title": "Archbishop Mannix addressing the crowd at the laying of the foundation stone for extensions to St Mary's Cathedral", 
+    "date": "25th August 1926", 
+    "text": "published in the Western Mail 29 April 1926, p.3 (Supplement) with caption: The Most Rev. Dr Mannix D.D. (Archbishop of Melbourne) speaking. Among those on the platform are the Most Rev. Patrick Clune C.S.S.R. D.D. (Archbishop of Perth), Most Rev. Francis M. Redwood (Archbishop of Wellington, N.Z.), Most Rev. R. W. Spence, D. D. (Archbishop of Adelaide), Most Rev. J. Duhig D.D. (Archbishop of Brisbane), Most Rev. M. Sheehan (Coadjutor Archbishop of Sydney) and the bishops of Sandhurst, Wilcannia-Forbes, Ballarat and Port Augusta.", 
+    "folder": "Victoria Square & Murray Street", 
+    "height": 578, 
+    "years": [
+      "1926"
+    ]
+  }, 
+  "BA533/215": {
+    "width": 760, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b1923348_2.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b1923348_2.jpg", 
+    "title": "Perth City Baths", 
+    "date": "1899", 
+    "text": "", 
+    "folder": "The Esplanade and Swan River", 
+    "height": 570, 
+    "years": [
+      "1899"
+    ]
+  }
+
+,
+
+  "BA2633/3": {
+    "width": 790, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b4087269_3.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/slwa_b4087269_3.jpg", 
+    "title": "Highlights 125, State Library of Western Australia illuminations", 
+    "date": "2014", 
+    "text": "", 
+    "folder": "William Street & Francis Street", 
+    "height": 790, 
+    "years": [
+      "2014"
+    ]
+  },
+  "006165PD": {
+    "width": 310, 
+    "thumb_url": "http://www.slwa.wa.gov.au/images/pd006/006165PD.png", 
+    "image_url": "http://www.slwa.wa.gov.au/images/pd006/006165PD.jpg", 
+    "title": "Womans Christian Temperance Union of Western Australia headquarters and Moir's�Chambers, Barrack Street, Perth", 
+    "date": "1907", 
+    "text": "This building later became the T & G Building. An unknown man sits in Stirling Gardens.", 
+    "folder": "St Georges Terrace & Barrack Street", 
+    "height": 435, 
+    "years": [
+      "1907"
+    ]
+  },
+  "216018PD": {
+    "width": 409, 
+    "thumb_url": "http://www.slwa.wa.gov.au/images/pd216/216018PD.png", 
+    "image_url": "http://www.slwa.wa.gov.au/images/pd216/216018PD.jpg", 
+    "title": "Brass band at Jubilee Orchestral Shell, Supreme Court Gardens", 
+    "date": "1977", 
+    "text": "A related image was published in 'Looking West' by Richard Woldendorp (1977) p.74 with caption 'Festival of Perth, a free concert in the�Supreme Court Gardens'.", 
+    "folder": "St Georges Terrace & Barrack Street", 
+    "height": 435, 
+    "years": [
+      "1977"
+    ]
+  },
+  "013595D": {
+    "width": 636, 
+    "thumb_url": "http://purl.slwa.wa.gov.au/images/orloff/013595d.png", 
+    "image_url": "http://purl.slwa.wa.gov.au/images/orloff/013595d.png", 
+    "title": "Perth City Baths", 
+    "date": "1922", 
+    "text": "", 
+    "folder": "Wadjuk Way & May Drive", 
+    "height": 435, 
+    "years": [
+      "1922"
+    ]
+  }
+
+
+
+
+
+
+
 }
