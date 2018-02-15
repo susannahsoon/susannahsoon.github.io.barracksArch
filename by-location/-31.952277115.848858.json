@@ -2,7 +2,7 @@
     "144277PD": {
       "width": 760, 
       "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.png", 
-      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_1.jpg", 
       "title": "Pensioner Barracks before demolition", 
       "date": "1966", 
       "text": "null",
@@ -12,5 +12,90 @@
       "years": [
         "1966"
       ]
+    },
+
+    "144278PD": {
+      "width": 760, 
+      "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_2.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_2.jpg", 
+      "title": "Pensioner Barracks before and after demolition", 
+      "date": "1966", 
+      "text": "null",
+      "folder": "Malcolm Street & Elder Street", 
+      "height": 542, 
+      "original_title": "Pensioner Barracks after demolition", 
+      "years": [
+        "1966"
+      ]
+    },
+
+    "144279PD": {
+      "width": 760, 
+      "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_3.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_3.jpg", 
+      "title": "Pensioner Barracks before and after demolition", 
+      "date": "1966", 
+      "text": "null",
+      "folder": "Malcolm Street & Elder Street", 
+      "height": 542, 
+      "original_title": "Pensioner Barracks before and after demolition", 
+      "years": [
+        "1966"
+      ]
+    },
+
+    "144281PD": {
+      "width": 760, 
+      "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_5.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_5.jpg", 
+      "title": "Barracks Arch after demolition", 
+      "date": "1966", 
+      "text": "null",
+      "folder": "Malcolm Street & Elder Street", 
+      "height": 542, 
+      "original_title": "Barracks Archb after demolition", 
+      "years": [
+        "1966"
+      ]
     }
+
+    ,
+
+    "144282PD": {
+      "width": 760, 
+      "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_6.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_6.jpg", 
+      "title": "Barracks Arch after demolition", 
+      "date": "1966", 
+      "text": "null",
+      "folder": "Malcolm Street & Elder Street", 
+      "height": 542, 
+      "original_title": "Barracks Archb after demolition", 
+      "years": [
+        "1966"
+      ]
+    }
+
+
+    ,
+
+    "144283PD": {
+      "width": 760, 
+      "thumb_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_7.png", 
+      "image_url": "http://purl.slwa.wa.gov.au/slwa_b3902743_7.jpg", 
+      "title": "Barracks Arch after demolition", 
+      "date": "1966", 
+      "text": "null",
+      "folder": "Malcolm Street & Elder Street", 
+      "height": 542, 
+      "original_title": "Barracks Archb after demolition", 
+      "years": [
+        "1966"
+      ]
+    }
+
+
+
+
+
   }
