@@ -772,7 +772,9 @@
 	}
 
 	function libraryUrlForPhotoId(photo_id) {
-	  return 'http://digitalcollections.nypl.org/items/image_id/' + photo_id.replace(/-[a-z]$/, '');
+	//  return 'http://digitalcollections.nypl.org/items/image_id/' + photo_id.replace(/-[a-z]$/, '');
+	//return 'http://slwa.wa.gov.au' + photo_id.replace(/-[a-z]$/, '');
+	return 'http://slwa.wa.gov.au'
 	}
 
 	function backId(photo_id) {
